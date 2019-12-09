@@ -29,5 +29,5 @@ Project Outline / Task:
 Summarization
 1.	No evident relationship is observed between latitude and cloudiness.
 2.	The windspeed is higher as you move away from equator.
-3.	There is no correlation between average humidity and latitude
-4.	The temperature rises as we go nearer the equator
+3.	There is no correlation between average humidity and latitude.
+4.	The temperature rises as we go nearer the equator.
